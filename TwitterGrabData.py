@@ -19,7 +19,7 @@ if __name__ == '__main__':
     while True:
         for tweet in tweepy.Cursor(api.search, q=topic).items(1000):
             response = client.put_record(
-                DeliveryStreamName='twitterkinesis',
+                DeliveryStreamName='kinesisnilabja',
                 Record={
                     'Data': json.dumps(tweet._json) + '\n'
                 }
