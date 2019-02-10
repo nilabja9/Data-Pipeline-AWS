@@ -1,0 +1,197 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jan 20 23:07:36 +0000 2019",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2706430603,
+                "id_str": "2706430603",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "K. Louise Neufeld #HuntressDianaOfTercel\ud83e\udd89\u2696\ufe0f\ud83c\uddfa\ud83c\uddf8",
+                "screen_name": "ninaandtito"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1087124515170193411,
+    "id_str": "1087124515170193411",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 232,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Apr 15 20:56:14 +0000 2017",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "newyorker.com/news/news-desk\u2026",
+                    "expanded_url": "http://www.newyorker.com/news/news-desk/eavesdropping-on-roy-cohn-and-donald-trump",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "url": "https://t.co/ShvVsg6hhh"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 296,
+        "favorited": false,
+        "geo": null,
+        "id": 853351282433818626,
+        "id_str": "853351282433818626",
+        "in_reply_to_screen_name": "ninaandtito",
+        "in_reply_to_status_id": 853351012345753600,
+        "in_reply_to_status_id_str": "853351012345753600",
+        "in_reply_to_user_id": 2706430603,
+        "in_reply_to_user_id_str": "2706430603",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 232,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "5) Arthur J. Finkelstein, Roger Stone, Donald Trump, and Paul Manafort were ALL accolytes of Roy Cohn. https://t.co/ShvVsg6hhh",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Aug 04 11:56:50 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "corruption foe/conspiracy analyst/feminist/deep dives into #TrumpRussia & #TransnationalOrganizedCrime/nosy housewife with sharp claws \ud83d\udc85\ud83c\udffd/ex-GS & hedge fund",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "citjourno.org",
+                            "expanded_url": "http://citjourno.org",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/oOeCSGuJbs"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 159433,
+            "follow_request_sent": false,
+            "followers_count": 35845,
+            "following": false,
+            "friends_count": 6143,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2706430603,
+            "id_str": "2706430603",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 291,
+            "location": "NYC",
+            "name": "K. Louise Neufeld #HuntressDianaOfTercel\ud83e\udd89\u2696\ufe0f\ud83c\uddfa\ud83c\uddf8",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2706430603/1499047129",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/997896713766612993/tyrOm-xE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/997896713766612993/tyrOm-xE_normal.jpg",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "ninaandtito",
+            "statuses_count": 90055,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/oOeCSGuJbs",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @ninaandtito: 5) Arthur J. Finkelstein, Roger Stone, Donald Trump, and Paul Manafort were ALL accolytes of Roy Cohn. https://t.co/ShvVsg\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 01 02:46:29 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Small town girl living in a confusing. corrupt world. Bring on the heroes. Together we can change the world. #RESIST #BETTERTOGETHER #LOVE #FUTUREOFHOPE",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 106047,
+        "follow_request_sent": false,
+        "followers_count": 2129,
+        "following": false,
+        "friends_count": 4145,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 509631618,
+        "id_str": "509631618",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "New York, USA",
+        "name": "\ud83d\udd704\ufe0f\u20e3\u2696\ufe0f\u2795\ud83e\udd43",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/509631618/1500812280",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1072580484763406336/jx5Eff9s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072580484763406336/jx5Eff9s_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jeanniebead",
+        "statuses_count": 88237,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
