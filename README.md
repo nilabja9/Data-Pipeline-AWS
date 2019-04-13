@@ -22,4 +22,5 @@ For processing we have used AWS Glue - which will crawl the S3 bucket for unstru
 An alternative way of processing would be to run a spark application using a EMR cluster. The Spark application could be run from any local system using AWS CLI, specifying steps - and schedule cluster termination once the job is completed. The same can be automated by running the Command Line Script by AWS Data Pipeline.
 
 ## Process and End Result
-The Script Ingestion.py contains the code for creating the Kinesis Firehose, fetch twitter data and write into the same. After this has been done for a certain period of time, the Kinesis Firehose is terminated. A Glue crawler is setup which crawls the S3 bucket 
+The Script Ingestion.py contains the code for creating the Kinesis Firehose, fetch twitter data and write into the same. After this has been done for a certain period of time, the Kinesis Firehose is terminated. A Glue crawler is setup which crawls the S3 bucket and determines schema on its own. After this process is complete - we create a job, map input and output, and execute the same.Glue transforms the JSON files into CSV and stores them in S3.
+
