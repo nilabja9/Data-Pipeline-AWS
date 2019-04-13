@@ -7,6 +7,17 @@ and transforming them into readable, relational format
 for analytics and data visualization
 
 ## Solution and Architecture
+
+### This has two parts 
+#### Ingestion and Storage
+
+For Data Ingestion, a Kinesis Data Firehose is created with Boto3 API. The python application calls twitter API to fetch tweets on a particular topic. The tweets are written into the firehose, which delivers them into S3 in specific buffer time intervals.
+
+
+
+
+
+
 For Data Ingestion, AWS Kinesis Firehose has been used which
 delivers data in JSON format to AWS S3 bucket. At intervals
 an EMR cluster is created to process the accumulated files
