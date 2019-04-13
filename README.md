@@ -24,3 +24,19 @@ An alternative way of processing would be to run a spark application using a EMR
 ## Process and End Result
 The Script Ingestion.py contains the code for creating the Kinesis Firehose, fetch twitter data and write into the same. After this has been done for a certain period of time, the Kinesis Firehose is terminated. A Glue crawler is setup which crawls the S3 bucket and determines schema on its own. After this process is complete - we create a job, map input and output, and execute the same.Glue transforms the JSON files into CSV and stores them in S3.
 
+Mapping:-
+![GlueMapping](https://user-images.githubusercontent.com/35825748/56086222-8deeb180-5e17-11e9-965e-0006e32dcab3.JPG)
+
+CSV Output:-
+![ExcelOutput](https://user-images.githubusercontent.com/35825748/56086221-8deeb180-5e17-11e9-8123-2ab904a94d57.JPG)
+
+If you would like a detailed process review please follow the youtube links:
+https://www.youtube.com/watch?v=JDy3QWVz8Ws&t=49s  
+
+https://www.youtube.com/watch?v=jkO9wdpHt4w&t=534s
+
+Alternative Process:
+
+An EMR cluster can be spun up with the script - 
+
+
