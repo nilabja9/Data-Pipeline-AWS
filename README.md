@@ -37,6 +37,6 @@ https://www.youtube.com/watch?v=jkO9wdpHt4w&t=534s
 
 Alternative Process:
 
-An EMR cluster can be spun up with the script - 
+An EMR cluster can be spun up with the script - EMRJobcreation.py(using boto3) or by using cli_bash.sh
 
 
